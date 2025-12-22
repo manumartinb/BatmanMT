@@ -1,0 +1,7 @@
+method,rho_oos
+Ridge (lineal),0.17065844837613994
+Lasso (sparse),0.2200551935903115
+Ridge Polinomial,0.06235509054878139
+Mejor subconjunto,0.1531629550026171
+ElasticNet,0.16910956811677885
+Fórmula: composite_4,0.2625950984311581
